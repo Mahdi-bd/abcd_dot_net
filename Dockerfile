@@ -7,8 +7,9 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
+
 COPY ["RPS/RPS.csproj", "RPS/"]
-RUN dotnet restore "RPS/RPS.csproj"
+RUN dotnet restore "RPS\RPS.csproj"
 
 COPY ["Entities/Entities.csproj", "Entities/"]
 RUN dotnet restore "Entities\Entities.csproj"
