@@ -1,0 +1,15 @@
+G:\Core_Api\RPS\Repository.Contracts\bin\Debug\net6.0\Repository.Contracts.deps.json
+G:\Core_Api\RPS\Repository.Contracts\bin\Debug\net6.0\Repository.Contracts.dll
+G:\Core_Api\RPS\Repository.Contracts\bin\Debug\net6.0\Repository.Contracts.pdb
+G:\Core_Api\RPS\Repository.Contracts\bin\Debug\net6.0\Entities.dll
+G:\Core_Api\RPS\Repository.Contracts\bin\Debug\net6.0\Entities.pdb
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.csproj.AssemblyReference.cache
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.AssemblyInfoInputs.cache
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.AssemblyInfo.cs
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.csproj.CoreCompileInputs.cache
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.csproj.CopyComplete
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.dll
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\refint\Repository.Contracts.dll
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\Repository.Contracts.pdb
+G:\Core_Api\RPS\Repository.Contracts\obj\Debug\net6.0\ref\Repository.Contracts.dll

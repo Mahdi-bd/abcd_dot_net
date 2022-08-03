@@ -1,0 +1,17 @@
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Repository.deps.json
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Repository.dll
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Repository.pdb
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Entities.dll
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Repository.Contracts.dll
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Entities.pdb
+G:\Core_Api\RPS\Repository\bin\Debug\net6.0\Repository.Contracts.pdb
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.dll
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\refint\Repository.dll
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\Repository.pdb
+G:\Core_Api\RPS\Repository\obj\Debug\net6.0\ref\Repository.dll
